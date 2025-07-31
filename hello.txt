@@ -1,1 +1,2 @@
 This is from the branch1 branch
+This is the updated content from the feature branch
